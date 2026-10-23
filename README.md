@@ -4,7 +4,7 @@ Electrical and Computer Engineering graduate from the University of Patras, base
 
 My main interests are digital signal processing, audio applications and machine learning. I also work on mathematical optimization and software development projects.
 
-I am seeking entry-level opportunities in Greece, preferably in signal processing and machine learning.
+I am seeking an entry-level engineering role, preferably in AI / ML.
 
 ## Selected Projects
 
